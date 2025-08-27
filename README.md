@@ -20,7 +20,7 @@ When working with push buttons, one problem that always shows up is "bouncing". 
 
 
 ## Code
-The exact C code I used for the Wokwi simulation is included in this repo under the file: Software_Debouncing.c
+The exact C code I used for the Wokwi simulation is included in this repo in the folder named Code
 
 
 
