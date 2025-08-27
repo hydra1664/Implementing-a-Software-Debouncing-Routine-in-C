@@ -20,14 +20,12 @@ When working with push buttons, one problem that always shows up is "bouncing". 
 
 
 ## Code
-The exact C code I used for the Wokwi simulation is included in this repo under the file:
-Software_Debouncing.c
+The exact C code I used for the Wokwi simulation is included in this repo under the file: Software_Debouncing.c
 
 
 
 ## Videos
-I uploaded all the demo videos showing the behavior before and after debouncing inside the folder named 'Videos'
-
+I uploaded the demo video showing the behavior before and after debouncing inside the folder named Videos
 
 
 ## Simulation
