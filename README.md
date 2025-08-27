@@ -32,7 +32,7 @@ I uploaded all the demo videos showing the behavior before and after debouncing 
 
 ## Simulation
 You can try out the circuit yourself on Wokwi:  
-[Wokwi Project Link]https://wokwi.com/projects/434539958514887681
+[Wokwi Project Link](https://wokwi.com/projects/434539958514887681)
 
 ## What I Learned
 - Mechanical switches bounce and need debouncing to be useful in digital systems  
